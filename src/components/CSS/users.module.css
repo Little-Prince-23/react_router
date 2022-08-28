@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+}
+
+.item {
+  margin-bottom: 2rem;
+}
+
+.link {
+  text-decoration: "none";
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 1rem;
+  background-color: red;
+  text-decoration: none;
+  transition: 0.3s all ease-in-out;
+}
+
+.link:hover {
+  background-color: black;
+  color: yellow;
+}
